@@ -79,6 +79,7 @@ Use the explorer link in CMD to check if verified and you'll also see below imag
 ![image](https://github.com/Ravindrareddy161/alignedlayer-testnet-proof/assets/152148394/8e528352-9716-4e43-8427-ada4dde3dff7)
 
 
+
 # JOIN DISCORD FROM PROFILE 
 https://linktr.ee/AlignedLayer
 
