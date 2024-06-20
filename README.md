@@ -80,6 +80,7 @@ Use the explorer link in CMD to check if verified and you'll also see below imag
 
 
 
+
 # JOIN DISCORD FROM PROFILE 
 https://linktr.ee/AlignedLayer
 
